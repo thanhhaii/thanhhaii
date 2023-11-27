@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Fintech Company at VietNam
+
+<!-- 
+<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=thanhhaii&layout=compact&langs_count=8&theme=tokyonight&role=OWNER,COLLABORATOR" height="185px" />
+-->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thanhhaii&v=2&langs_count=10&layout=compact&theme=tokyonight" height="185px" />
+
 <!--
 **thanhhaii/thanhhaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
